@@ -2,6 +2,10 @@
 #   add typical simple solutions to each problem
 import sys
 
+# import numpy as np
+# import matplotlib.pyplot as plt
+# from stl_tools import numpy2stl
+
 class library_of_meshes(object):
 
     def __init__(self):
